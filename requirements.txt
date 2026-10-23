@@ -1,7 +1,7 @@
 # Runtime dependencies (pinned). The last line installs this project itself so
 # `python -m price_alerts` works from the repo root.
 httpx==0.28.1
-selectolax==1.0.0
+selectolax==1.0.1
 pydantic==2.14.1
 PyYAML==6.0.3
 mailtrap==2.11.0
